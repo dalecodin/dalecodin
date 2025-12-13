@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Dale, a Cybersecurity graduate. 
-This GitHub is my portfolio of my projects working IT Helpdesk, Cloud and security.
+This GitHub is my portfolio of my projects working on IT Helpdesk, Cloud and security.
 
 
 <h2>IT Helpdesk Projects</h2>
