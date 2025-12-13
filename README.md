@@ -1,10 +1,14 @@
+## 👋 Hi, I’m Dale, a Cybersecurity graduate. 
+This GitHub is my portfolio of my projects working IT Helpdesk, Cloud and security.
+
+
 <h2>IT Helpdesk Projects</h2>
 
 - <b>Powershell Active Directory Password Reset Script</b>  
-  - [ps-AD-passreset](https://github.com/dalecodin/ps-AD-passreset) <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="25" alt="PowerShell Logo">
+  - [ps-AD-passreset](https://github.com/dalecodin/ps-AD-passreset) 
 
 - <b>Powershell Net Triage Script</b>  
-  - [ps-NetTriage](https://github.com/dalecodin/ps-NetTriage) <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_64.svg" width="25" alt="PowerShell Logo">
+  - [ps-NetTriage](https://github.com/dalecodin/ps-NetTriage) 
     
     
 
