@@ -1,4 +1,4 @@
-<h1>IT Helpdesk projects</h1>
+<h2>IT Helpdesk projects</h2>
 
 - <b>Powershell Active Directory Password Reset Script</b>  
   - [ps-AD-passreset](https://github.com/dalecodin/ps-AD-passreset)
