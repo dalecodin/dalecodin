@@ -8,7 +8,10 @@ This GitHub is my portfolio of my projects working on IT Helpdesk, Cloud and sec
   - [ps-AD-passreset](https://github.com/dalecodin/ps-AD-passreset) 
 
 - <b>Powershell Net Triage Script</b>  
-  - [ps-NetTriage](https://github.com/dalecodin/ps-NetTriage) 
+  - [ps-NetTriage](https://github.com/dalecodin/ps-NetTriage)
+
+- <b>Home Network Documentation & Troubleshooting</b>  
+  - [home-network-documentation](https://github.com/dalecodin/home-network-troubleshooting) 
     
     
 
