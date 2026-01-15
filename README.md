@@ -4,6 +4,9 @@ This GitHub is my portfolio of my projects working on IT Helpdesk, Cloud and sec
 
 <h2>IT Helpdesk Projects</h2>
 
+- <b>Azure Hosted Active Directory Lab</b>  
+  - [azure-active-directory-lab](https://github.com/dalecodin/azure-active-directory-lab) 
+
 - <b>Powershell Active Directory Password Reset Script</b>  
   - [ps-AD-passreset](https://github.com/dalecodin/ps-AD-passreset) 
 
